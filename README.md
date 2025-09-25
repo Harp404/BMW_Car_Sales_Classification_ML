@@ -29,7 +29,7 @@ The model considers the following features for prediction:
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Harp404/BMW_Car_Sales_Classification_ML.git
-cd BMW_car_sales
+cd BMW_Car_Sales_Classification_ML
 ```
 
 2. **Create virtual environment** (recommended)
